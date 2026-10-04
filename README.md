@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi!, I’m a student interested in technology.
 
 <!--
 **lnOoOal-8089/lnOoOal-8089** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
