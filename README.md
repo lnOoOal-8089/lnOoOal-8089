@@ -14,3 +14,6 @@ I’m a Multimedia & Web Technologies student exploring web development, design,
 
 **Loi Leen** — An organic store website built to practice web development, interface design, and e-commerce concepts.
 [Visit Loi-Leen](https://lnoooal-8089.github.io/-Loi-Leen/)
+Current project
+Digital Athar | اثر رقمي 
+Digital Athar is an independent platform designed to make digital resources, learning opportunities, and technology initiatives. Visit https://lnoooal-8089.github.io/deigital-athar-/
